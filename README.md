@@ -8,7 +8,7 @@ This projects target is to create a real time mask detector. During pandemics it
 
 1. Mask is on, everything is correct.
 
-   <img src="images/GoodMask_72dd043e-34d5-11eb-82d3-347df6021425.jpg" high="150">
+   <img src="images/GoodMask_72dd043e-34d5-11eb-82d3-347df6021425.jpg" width="150">
 
 2. Mask is partially on, good for trying.
 
