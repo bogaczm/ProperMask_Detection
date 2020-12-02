@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>NoMask_a81ca89f-34d6-11eb-af89-347df6021425.jpg</filename>
+	<path>C:\Users\moko\Desktop\ProperMask_Detection\images\NoMask_a81ca89f-34d6-11eb-af89-347df6021425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>74</ymin>
+			<xmax>403</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

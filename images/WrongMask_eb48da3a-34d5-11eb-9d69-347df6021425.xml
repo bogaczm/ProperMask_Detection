@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WrongMask_eb48da3a-34d5-11eb-9d69-347df6021425.jpg</filename>
+	<path>C:\Users\moko\Desktop\ProperMask_Detection\images\WrongMask_eb48da3a-34d5-11eb-9d69-347df6021425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WrongMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>46</ymin>
+			<xmax>365</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
