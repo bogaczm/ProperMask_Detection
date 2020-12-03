@@ -1,0 +1,15 @@
+item{
+	name:'CorrectMask'
+	id:0
+}
+
+item{
+	name:'NoMask'
+	id:1
+}
+
+item{
+	name:'WrongMask'
+	id:0
+}
+
